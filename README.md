@@ -1,1 +1,1 @@
-Both the code can work in Python2 as well as in Python3.
+This programs work with Python 2.7.10
